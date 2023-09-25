@@ -1,2 +1,0 @@
-# MovieIndustryEDA
-Movie Industry EDA
